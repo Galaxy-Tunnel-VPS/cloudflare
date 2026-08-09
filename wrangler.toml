@@ -1,6 +1,6 @@
 name = "cloudflare"
 main ="_worker.js"
-compatibility_date = "2026-08-09"
+compatibility_date = "2026.08.09"
 vars = "true"
 defaultProxyIP = "cdn-b100.xn--b6gac.eu.org"
 
