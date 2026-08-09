@@ -1,6 +1,6 @@
 name = ""
 main ="_worker.js"
-compatibility date = "Aug 8, 2026"
+compatibility = "Aug 8, 2026"
 defaultProxyIP = "cdn-b100.xn--b6gac.eu.org"
 
 githubProxyURL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt"
