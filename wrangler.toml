@@ -1,6 +1,7 @@
 name = "cloudflare"
 main ="_worker.js"
-compatibility = "9.8.2026"
+compatibility_date = "2026-08-09"
+vars_true
 defaultProxyIP = "cdn-b100.xn--b6gac.eu.org"
 
 githubProxyURL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt"
