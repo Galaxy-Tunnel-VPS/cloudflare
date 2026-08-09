@@ -1,7 +1,7 @@
 name = ""
 main ="_worker.js"
 
-defaultProxyIP = "cdn-b100.xn--b6gac.eu.org";
+defaultProxyIP = "cdn-b100.xn--b6gac.eu.org"
 
 githubProxyURL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt"
 
