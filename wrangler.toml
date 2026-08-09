@@ -1,0 +1,13 @@
+name = ""
+main ="_worker.js"
+
+var defaultProxyIP = "cdn-b100.xn--b6gac.eu.org";
+
+// Dynamic ProxyIP List from GitHub Raw URL
+var githubProxyURL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt"
+
+// Fast DoH Providers (Cloudflare & Google failover)
+var dohURLs = [
+    "https://cloudflare-dns.com/dns-query",
+    "https://dns.google/dns-query"
+]
